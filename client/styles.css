@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -6,7 +6,7 @@
   font-family: "Poppins", sans-serif;
 }
 
-/* Background */
+
 body {
   height: 100vh;
   background: linear-gradient(135deg, #4facfe, #00f2fe);
@@ -15,13 +15,13 @@ body {
   align-items: center;
 }
 
-/* Container */
+
 .container {
   width: 100%;
   max-width: 400px;
 }
 
-/* Card */
+
 .login-card {
   background: white;
   padding: 40px;
@@ -30,18 +30,18 @@ body {
   text-align: center;
 }
 
-/* Title */
+
 .login-card h1 {
   margin-bottom: 10px;
 }
 
-/* Subtitle */
+
 .subtitle {
   margin-bottom: 20px;
   color: #666;
 }
 
-/* Input */
+
 .login-card input {
   width: 100%;
   padding: 12px;
@@ -51,7 +51,7 @@ body {
   font-size: 16px;
 }
 
-/* Button */
+
 .login-card button {
   width: 100%;
   padding: 12px;

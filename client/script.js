@@ -15,12 +15,12 @@ form.addEventListener("submit", async (e) => {
 
   const data = await res.json();
 
-  console.log("Login response:", data); // DEBUG
+  console.log("Login response:", data); 
 
   if (data.token) {
     localStorage.setItem("token", data.token);
 
-    window.location.href = "/app.html"; // ✅ redirect
+    window.location.href = "/app.html"; 
   } else {
     alert("Login failed");
   }
