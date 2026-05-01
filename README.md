@@ -126,6 +126,11 @@ Socket Server → Kafka Producer → Topic (location-updates)
 - No horizontal scaling setup
 - Basic UI 
 - Kafka setup is local 
+## Screenshots 
+<img width="856" height="640" alt="Screenshot 2026-05-01 at 8 22 35 PM" src="https://github.com/user-attachments/assets/7106d8ca-da44-4f8b-8466-31f68f360e97" />
+<img width="856" height="640" alt="Screenshot 2026-05-01 at 8 22 27 PM" src="https://github.com/user-attachments/assets/558ad1d5-2480-4296-8a33-4b230a255213" />
+
+
 
 
 
