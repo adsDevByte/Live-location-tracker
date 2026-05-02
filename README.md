@@ -116,6 +116,8 @@ Socket Server → Kafka Producer → Topic (location-updates)
                                 ↓
                        All connected clients
 ```
+> [!Note]
+> Use username as - adarsh
 ## Assumptions
 - Users allow browser location access
 - Kafka is running locally or via Docker
